@@ -42,3 +42,7 @@ Soyutlama (Abstraction): Cihaz sınıfı üzerinden tüm cihazların ortak özel
 Kalıtım (Inheritance): Klima, Lamba ve GuvenlikKamerasi sınıfları, Cihaz sınıfından türedi.
 Kapsülleme (Encapsulation): Her cihazın durum bilgileri gizlendi ve kontrollü şekilde erişildi.
 Polimorfizm (Polymorphism): Tüm cihazlar, aynı arayüz üzerinden açılabilir ve kapatılabilir.
+
+![Ekran görüntüsü 2025-01-30 201008](https://github.com/user-attachments/assets/06a50fda-66e7-4a69-9ebe-9736fdf1a958)
+
+
